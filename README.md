@@ -1,5 +1,5 @@
 # TikTokUnf
-Unfollow all accounts ON TikTok app(Galaxy A70)
+Unfollow all accounts on TikTok app(Galaxy A70)
 
 Screenshot is for seting your screen size 
 you need to use this scrren settings for this program 
